@@ -19,3 +19,14 @@ url.com
 url.net
 ...
 ```
+
+### Ignoring private cases
+
+Cases to ignore could be added to `conf.txt`, which should be 
+created in the folder where exe is located.
+
+`conf.txt` example:
+```
+org.com
+com.net
+```
